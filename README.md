@@ -1,6 +1,3 @@
-# final-project-3d-turkey-stuffers
-final-project-3d-turkey-stuffers created by GitHub Classroom
-
 About:\
 This game is a zombie survival game. There is an endless wave of zombies where the user has to kill zombies to earn points.
 Zombies takes 2x more damage when shot in the head. When zombies die they can potentially drop powerups that helps the user survive better.
